@@ -1,5 +1,7 @@
 # HPQuotes
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9d7ff9d8742d4a84b9a4e24e6ac3b26b)](https://app.codacy.com/manual/FlorianRaith/HPQuotes?utm_source=github.com&utm_medium=referral&utm_content=FlorianRaith/HPQuotes&utm_campaign=Badge_Grade_Dashboard)
+
 A little webapp where you have to guess the correct author of a quote from the harry potter books.  
   
 ## Stack
